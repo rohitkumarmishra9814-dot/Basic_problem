@@ -1,3 +1,5 @@
+//The problem is that\nchange (a-d) (b-e)...so on in the given string but the twist is that some positions remains intact that will say by user
+
 #include<stdio.h>
 #include<string.h>
 int main()
